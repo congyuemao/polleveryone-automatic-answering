@@ -1,7 +1,7 @@
 # PollEasy 点易通
 
 An automatic answering script, based on Python + Selenium + OPENAI API.
-It automatically monitors PollEverywhere quizes, send question and choices to an AI modle (ChatGPT for example), and automatically click the most reasonable and possible answer based on AI replies.
+It automatically monitors PollEverywhere quizes, send question and options to an AI model (ChatGPT for example), and automatically click the most reasonable and possible answer based on AI replies.
 
 一个自动化答题脚本，基于Python + Selenium + OPENAI API实现。
 该脚本可自动监听浏览器中PollEverywhere的题目，并自动发送题目和选项至AI接口（比如ChatGPT），并根据AI返回答案，自动点击最可能的答案。
@@ -15,7 +15,7 @@ It automatically monitors PollEverywhere quizes, send question and choices to an
     cd polleveryone-automatic-answering
    ```
 
-### 2. required package 依赖包
+### 2. required packages 依赖包
    Make sure you have installed Python 3.8+ and Google Chrome. After that, install required packages.
    确保你已经安装 Python 3.8+ 以及谷歌Chrome浏览器。之后，安装依赖包。
    
@@ -42,7 +42,7 @@ OPENAI_API_KEY = "sk-XXXX"               # Replace with your AI API key 将此�
 
 1. Manually log in to PollEverywhere in the opened Chrome window.
    
-   手动在打开的Chrome界面中登录PollEverywhere账号。
+   手动在打开的Chrome窗口中登录PollEverywhere账号。
    
 3. Press ENTER in the terminal to continue.
    
