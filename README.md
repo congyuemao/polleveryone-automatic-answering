@@ -41,7 +41,7 @@ OPENAI_API_KEY = "sk-XXXX"               # Replace with your AI API key 将此�
     
 #### Steps:
 
-1. Manually log in to PollEverywhere in the opened Chrome window.
+1. Manually log in PollEverywhere in the opened Chrome window.
    
    手动在打开的Chrome窗口中登录PollEverywhere账号。
    
