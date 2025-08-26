@@ -17,6 +17,7 @@ It automatically monitors PollEverywhere quizes, send question and options to an
 
 ### 2. required packages 依赖包
    Make sure you have installed Python 3.8+ and Google Chrome. After that, install required packages.
+   
    确保你已经安装 Python 3.8+ 以及谷歌Chrome浏览器。之后，安装依赖包。
    
     pip install openai selenium
